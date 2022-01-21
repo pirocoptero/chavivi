@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "chavivi",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
