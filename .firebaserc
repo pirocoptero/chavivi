@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "chavivi-app"
-  }
+    "default": "utopix-chavivi",
+    "utopix-chavivi": "utopix-chavivi"
+  },
+  "targets": {}
 }
